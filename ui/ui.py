@@ -1,5 +1,5 @@
-from entities import Product
-from services import Service
+from domain.entities import Product
+from service.services import Service
 
 class UI:
 

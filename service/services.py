@@ -1,4 +1,4 @@
-from entities import Product
+from domain.entities import Product
 
 class Service:
     def __init__(self):
